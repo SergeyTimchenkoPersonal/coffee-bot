@@ -6,7 +6,7 @@ const {
 	HOT,
 	TEA,
 	BAR,
-	LIMONADES,
+	LEMONADES,
 	SEASON,
 } = require('./drinkCategories.json')
 
